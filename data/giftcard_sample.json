@@ -1,0 +1,37 @@
+[
+  {
+    "cardNumber": "GC-001",
+    "monto": 150,
+    "estado": "ACTIVE",
+    "createdTime": "2026-05-01T10:00:00Z",
+    "cliente": "Juan Perez"
+  },
+  {
+    "cardNumber": "GC-002",
+    "monto": 200,
+    "estado": "REDEEMED",
+    "createdTime": "2026-05-02T11:00:00Z",
+    "cliente": "Maria Garcia"
+  },
+  {
+    "cardNumber": "GC-003",
+    "monto": 75,
+    "estado": "ACTIVE",
+    "createdTime": "2026-05-03T09:00:00Z",
+    "cliente": "Carlos Lopez"
+  },
+  {
+    "cardNumber": "GC-004",
+    "monto": 300,
+    "estado": "EXPIRED",
+    "createdTime": "2026-05-04T14:00:00Z",
+    "cliente": "Ana Torres"
+  },
+  {
+    "cardNumber": "GC-005",
+    "monto": 100,
+    "estado": "ACTIVE",
+    "createdTime": "2026-05-05T08:00:00Z",
+    "cliente": "Luis Mendoza"
+  }
+]
