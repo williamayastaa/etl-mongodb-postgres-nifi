@@ -26,8 +26,7 @@ docker exec -it nifi-lab-postgres-1 psql -U postgres -d nifi_lab
 Ejecutar el script sql/create_tables.sql
 
 ### 4. Importar el flow en NiFi
-Entrar a https://localhost:8443/nifi
-Usuario: admin / Contraseña: admin12345678
+Usuario y contraseña definidos en tu archivo .env
 Importar flows/GiftCard_ETL.json
 
 ## Estructura del proyecto
