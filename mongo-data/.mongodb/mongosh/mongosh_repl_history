@@ -1,0 +1,7 @@
+db.GiftCardOrder.find().pretty()
+use giftcard_lab
+db.GiftCardOrder.findOne()use giftcard_lab
+exit
+db.GiftCardOrder.find().pretty()
+])  }    "cliente": "Luis Mendoza"    "createdTime": new Date("2026-05-05T08:00:00Z"),    "estado": "ACTIVE",    "monto": 100,    "cardNumber": "GC-005",  {  },    "cliente": "Ana Torres"    "createdTime": new Date("2026-05-04T14:00:00Z"),    "estado": "EXPIRED",    "monto": 300,    "cardNumber": "GC-004",  {  },    "cliente": "Carlos Lopez"    "createdTime": new Date("2026-05-03T09:00:00Z"),    "estado": "ACTIVE",    "monto": 75,    "cardNumber": "GC-003",  {  },    "cliente": "Maria Garcia"    "createdTime": new Date("2026-05-02T11:00:00Z"),    "estado": "REDEEMED",    "monto": 200,    "cardNumber": "GC-002",  {  },    "cliente": "Juan Perez"    "createdTime": new Date("2026-05-01T10:00:00Z"),    "estado": "ACTIVE",    "monto": 150,    "cardNumber": "GC-001",  {db.GiftCardOrder.insertMany([
+use giftcard_lab

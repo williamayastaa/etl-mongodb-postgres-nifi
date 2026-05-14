@@ -1,0 +1,4 @@
+*.jar
+nifi-data/
+mongo-data/
+postgres-data/
